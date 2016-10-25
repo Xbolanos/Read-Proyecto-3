@@ -9,4 +9,5 @@ Siempre antes de utilizarlo se le debe de dar en "Build Project".Luego se va a l
 Hay que tomar en cuenta que primero se le debe de dar en el boton "Ajustar" para seleccionar el tamaño y luego se llena la tabla según el orden de los valores y se pone a la opción que se quiere ingresar y se le da en "Verificar".
 Known Issues
 ============
-El programa siempre realiza los ejercicios eso si, es importante conocer que dura un buen tiempo en realizarlo. Con Nilsson esta la restricción de que solo se puede utilizar una matriz 3x3 y con una matriz exito específica.
+-El programa siempre realiza los ejercicios eso si, es importante conocer que dura un buen tiempo en realizarlos por lo que se recomienda utilizar el juego original como solución y además matrices muy simples cuando es mayor que 3 el N. 
+-Con Nilsson esta la restricción de que solo se puede utilizar una matriz 3x3 y con una matriz exito específica.
