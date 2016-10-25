@@ -10,4 +10,5 @@ Hay que tomar en cuenta que primero se le debe de dar en el boton "Ajustar" para
 Known Issues
 ============
 -El programa siempre realiza los ejercicios eso si, es importante conocer que dura un buen tiempo en realizarlos por lo que se recomienda utilizar el juego original como solución y además matrices muy simples cuando es mayor que 3 el N. 
+
 -Con Nilsson esta la restricción de que solo se puede utilizar una matriz 3x3 y con una matriz exito específica.
