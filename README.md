@@ -2,7 +2,7 @@
 
 Installation
 ===========
-La aplicación se hizo con el fin de que idealmente se pruebe en Netbeans IDE 8.1 con todos los pluggins de scala instalados para su mayor funcionamiento. 
+La aplicación se hizo con el fin de que idealmente se pruebe en Netbeans IDE 8.1 con todos los plugins de scala instalados para su mayor funcionamiento. 
 Usage
 ===========
 Siempre antes de utilizarlo se le debe de dar en "Build Project".Luego se va a la carpeta Scala Packages->com.mycompany.tareaprogramada3 y ahi en App.scala se le da click derecho y Run.
